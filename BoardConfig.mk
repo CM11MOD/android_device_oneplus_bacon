@@ -17,8 +17,9 @@
 # Inherit from MSM8974 common
 -include device/oppo/msm8974-common/BoardConfigCommon.mk
 
-TARGET_GCC_VERSION_AND := 4.8-sm
+TARGET_GCC_VERSION_AND := 4.9-sm
 TARGET_GCC_VERSION_ARM := 4.7
+TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
 
 # Kernel
 TARGET_KERNEL_CONFIG := cyanogenmod_bacon_defconfig
