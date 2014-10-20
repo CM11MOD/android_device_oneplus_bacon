@@ -169,4 +169,6 @@
          autodetected from the Configuration. -->
     <bool name="config_showNavigationBar">false</bool>
 
+    <!-- Enable translucent lockscreen-->
+    <bool name="config_enableLockScreenTranslucentDecor">true</bool>
 </resources>
