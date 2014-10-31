@@ -26,4 +26,9 @@
     <!-- Regulatory Info -->
     <!-- Whether to show a preference item for regulatory information in About phone -->
     <bool name="config_show_regulatory_info">true</bool>
+
+    <!-- maximum value for the custom display density -->
+    <integer name="display_density_max">480</integer>
+    <!-- minimum value for the custom display density -->
+    <integer name="display_density_min">300</integer>
 </resources>
