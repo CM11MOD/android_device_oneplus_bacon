@@ -20,9 +20,9 @@
 # Disable periodic battery polling
 HEALTHD_CHATTY_MODE := false
 
-TARGET_GCC_VERSION_AND := 4.9-sm
+TARGET_GCC_VERSION_AND := 4.8-linaro
 TARGET_GCC_VERSION_ARM := 4.8-sm
-TARGET_GCC_VERSION := 4.9-sm
+TARGET_GCC_VERSION := 4.8-linaro
 TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.8-sm
 
 # Compiler
